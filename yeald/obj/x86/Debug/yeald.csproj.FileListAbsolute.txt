@@ -1,0 +1,4 @@
+D:\DemoProject\yeald\yeald\bin\Debug\yeald.exe
+D:\DemoProject\yeald\yeald\bin\Debug\yeald.pdb
+D:\DemoProject\yeald\yeald\obj\x86\Debug\yeald.exe
+D:\DemoProject\yeald\yeald\obj\x86\Debug\yeald.pdb
